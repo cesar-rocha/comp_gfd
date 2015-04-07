@@ -1,4 +1,4 @@
 # Credits
 
 ## Development Lead
-* Cesar B Rocha <crocha@ucsd.edu>
+* Cesar B Rocha <<crocha@ucsd.edu>>
